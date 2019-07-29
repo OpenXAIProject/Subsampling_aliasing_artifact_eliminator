@@ -16,6 +16,10 @@ For more detailed information and download, please refer to http://xai.kaist.ac.
 + Numpy 1.15.2
 + h5py, matplotlib
 
+## Preprocessed data
+* Training dataset consisting of 85 subjects
+* Test dataset consisting of 2 subjects
+* Open access: [Google drive](https://drive.google.com/open?id=1h1YgjAKPNXajD-0JHwBSMsn58846KKDT)
 
 ## Reference
 ```
