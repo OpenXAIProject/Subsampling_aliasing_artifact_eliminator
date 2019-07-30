@@ -23,11 +23,15 @@ For more detailed information and download, please refer to http://xai.kaist.ac.
 
 ## Reference
 ```
-@{
-    author    = {Kinam Kwon, Dongchan Kim, and HyunWook Park},
-    title     = {A parallel mr imaging method using multilayer perceptron},
-    journal   = {Medical Physics},
-    year      = {2017}
+@article{kwon2017parallel,
+  title={A parallel MR imaging method using multilayer perceptron},
+  author={Kwon, Kinam and Kim, Dongchan and Park, HyunWook},
+  journal={Medical physics},
+  volume={44},
+  number={12},
+  pages={6209--6224},
+  year={2017},
+  publisher={Wiley Online Library}
 }
 ```
 
